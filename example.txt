@@ -1,2 +1,2 @@
-Here is an example text file
-
+Here is an example text file.
+Here is a second line.
